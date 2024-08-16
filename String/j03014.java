@@ -7,12 +7,6 @@ public class j03014 {
             BigInteger aBig = scanner.nextBigInteger();
             BigInteger bBig = scanner.nextBigInteger();
             String c = aBig.add(bBig).abs().toString();
-
-
             System.out.println(c);
-
     }
-}
- {
-    
 }
