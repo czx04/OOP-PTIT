@@ -1,18 +1,10 @@
-import java.math.BigInteger;
-import java.util.Scanner;
+  // public static int main(String num) {
+    //     int length = num.length();
+    //     int sole = 0;
+    //     int sochan = 0;
 
-public class j03014 {
-    public static void main(String[] args) {
-        Scanner scanner = new Scanner(System.in);
-            BigInteger aBig = scanner.nextBigInteger();
-            BigInteger bBig = scanner.nextBigInteger();
-            String c = aBig.add(bBig).abs().toString();
+    //     // for(int i = 0; i < length; i++){
 
+    //     // }
 
-            System.out.println(c);
-
-    }
-}
- {
-    
-}
+    // }
