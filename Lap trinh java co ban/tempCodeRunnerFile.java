@@ -1,0 +1,1 @@
+int t = Integer.parseInt(scanner.nextLine());
